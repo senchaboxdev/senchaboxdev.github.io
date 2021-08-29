@@ -1,0 +1,4 @@
+#Sun Aug 29 10:12:37 ICT 2021
+base.0=/Users/developer/Documents/Github/flutter_esp32/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
