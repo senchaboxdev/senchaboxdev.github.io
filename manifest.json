@@ -1,6 +1,6 @@
 {
-    "name": "flutter_esp32",
-    "short_name": "flutter_esp32",
+    "name": "flutter_cubit_bloc",
+    "short_name": "flutter_cubit_bloc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
