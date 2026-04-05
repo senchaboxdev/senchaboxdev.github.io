@@ -1,0 +1,92 @@
+{
+  "name": "Namo555",
+  "title": "Developer and Designer",
+  "subtitle": "I build things for Art, I love it",
+  "bio": "Hi! I'm a passionate developer who loves creating beautiful and functional web experiences. I specialize in turning ideas into reality through code.",
+  "avatar": "assets/namo/namo_profile.jpg",
+  "social": {
+    "github": "https://github.com/senchaboxdev",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "",
+    "email": "nakrit.thomthitchong@gmail.com"
+  },
+  "skills": [
+    "Autodesk Fusion 360",
+    "Blender",
+    "Nomad",
+    "Photoshop",
+    "illustrator"
+  ],
+  "projects": [
+    {
+      "title": "Warrior Gecko",
+      "description": "3D character model — Warrior Gecko",
+      "image": "assets/images/20260228_143431_001.png",
+      "link": "",
+      "demo": "",
+      "tags": [
+        "3D",
+        "Character",
+        "Modeling"
+      ],
+      "details": [
+        "assets/images/20260228_143431_002.png",
+        "assets/images/20260228_143435_003.png",
+        "assets/images/20260228_143438_002.png",
+        "assets/images/20260228_143442_002.png"
+      ]
+    },
+    {
+      "title": "Batman",
+      "description": "3D character model — Batman fanart",
+      "image": "assets/images/20260228_143446_002.png",
+      "link": "",
+      "demo": "",
+      "tags": [
+        "3D",
+        "Character",
+        "Fanart"
+      ],
+      "details": [
+        "assets/images/20260228_143454_002.png",
+        "assets/images/20260228_143457_002.png"
+      ]
+    },
+    {
+      "title": "Render Animation",
+      "description": "3D render animation",
+      "image": "assets/images/20260228_143459_002.gif",
+      "link": "",
+      "demo": "",
+      "tags": [
+        "3D",
+        "Animation",
+        "Render"
+      ],
+      "details": [
+        "assets/images/20260228_143459_002.png"
+      ]
+    },
+    {
+      "title": "Robot",
+      "description": "3D character model — Robot design",
+      "image": "assets/images/20260228_143502_003.png",
+      "link": "",
+      "demo": "",
+      "tags": [
+        "3D",
+        "Robot",
+        "Modeling"
+      ],
+      "details": [
+        "assets/images/20260228_143504_002.png",
+        "assets/images/20260228_143507_002.png"
+      ]
+    }
+  ],
+  "theme": {
+    "gradient1": "#667eea",
+    "gradient2": "#764ba2",
+    "accent": "#f093fb"
+  }
+}

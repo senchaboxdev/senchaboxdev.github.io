@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Autodesk Fusion 360",
+    "projects": [
+      {
+        "title": "xxx",
+        "description": "yyyyy",
+        "image": "assets/images/1775382596710.jpg",
+        "link": "",
+        "demo": "",
+        "year": 2020,
+        "tags": [],
+        "details": [
+          "assets/images/1775382610300.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "drawing",
+    "projects": []
+  },
+  {
+    "name": "git commands",
+    "projects": []
+  },
+  {
+    "name": "slack",
+    "projects": []
+  },
+  {
+    "name": "Blender",
+    "projects": []
+  },
+  {
+    "name": "Nomad",
+    "projects": []
+  },
+  {
+    "name": "Photoshop",
+    "projects": []
+  },
+  {
+    "name": "illustrator",
+    "projects": []
+  },
+  {
+    "name": "Other",
+    "projects": [
+      {
+        "title": "aaaa",
+        "description": "bbbbb",
+        "image": "assets/images/1775382648312.png",
+        "link": "",
+        "demo": "",
+        "year": 2021,
+        "tags": [],
+        "details": []
+      }
+    ]
+  }
+]
