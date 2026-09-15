@@ -4,11 +4,26 @@
   "subtitle": "I build things for Art, I love it",
   "bio": "Hi! I'm a passionate developer who loves creating beautiful and functional web experiences. I specialize in turning ideas into reality through code.",
   "avatar": "assets/namo/namo_profile.jpg",
-  "social": {
-    "github": "https://github.com/senchaboxdev",
-    "linkedin": "https://linkedin.com/in/yourusername",
-    "twitter": "",
-    "email": "nakrit.thomthitchong@gmail.com"
+  "header": {
+    "brand": "Effort Portfolio",
+    "logo": "E"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "text": "Got a project in mind or just want to say hi? Drop me a message anytime.",
+    "button": "Say Hello 👋",
+    "links": [
+      {
+        "type": "github",
+        "label": "",
+        "url": "https://github.com/senchaboxdev"
+      },
+      {
+        "type": "email",
+        "label": "",
+        "url": "nakrit.thomthitchong@gmail.com"
+      }
+    ]
   },
   "theme": {
     "gradient1": "#667eea",
