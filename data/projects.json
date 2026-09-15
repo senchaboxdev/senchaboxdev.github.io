@@ -1,5 +1,256 @@
 [
   {
+    "title": "Design Line sticker",
+    "description": "",
+    "image": "assets/images/1789479343942.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789479356024.webp",
+      "assets/images/1789479385096.webp",
+      "assets/images/1789479385373.webp",
+      "assets/images/1789479385641.webp",
+      "assets/images/1789479392295.jpg",
+      "assets/images/1789479398287.webp",
+      "assets/images/1789479401700.webp",
+      "assets/images/1789479412475.webp",
+      "assets/images/1789479423844.webp",
+      "assets/images/1789479428389.webp",
+      "assets/images/1789479428629.webp",
+      "assets/images/1789479428866.webp",
+      "assets/images/1789479429117.webp",
+      "assets/images/1789479429316.webp",
+      "assets/images/1789479429581.webp",
+      "assets/images/1789479429804.webp"
+    ]
+  },
+  {
+    "title": "Father day",
+    "description": "",
+    "image": "assets/images/1789479225979.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789479233652.webp",
+      "assets/images/1789479229671.webp"
+    ]
+  },
+  {
+    "title": "Summer AIA logo for team",
+    "description": "",
+    "image": "assets/images/1789479126958.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789479139188.webp",
+      "assets/images/1789479130800.webp"
+    ]
+  },
+  {
+    "title": "Summer Solo Leveling",
+    "description": "",
+    "image": "assets/images/1789479067575.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789479078877.webp",
+      "assets/images/1789479083836.webp"
+    ]
+  },
+  {
+    "title": "Summer Dragon",
+    "description": "",
+    "image": "assets/images/1789478893277.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789478986423.webp",
+      "assets/images/1789478906295.webp"
+    ]
+  },
+  {
+    "title": "Summer Thailand",
+    "description": "",
+    "image": "assets/images/1789478863297.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Summer Dino",
+    "description": "",
+    "image": "assets/images/1789478778569.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789478761276.webp"
+    ]
+  },
+  {
+    "title": "Summer Mask",
+    "description": "",
+    "image": "assets/images/1789478694508.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Illustrator",
+    "tags": [],
+    "details": [
+      "assets/images/1789478713490.webp"
+    ]
+  },
+  {
+    "title": "Summer cover book",
+    "description": "",
+    "image": "assets/images/1789478637255.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Photoshop",
+    "tags": [],
+    "details": [
+      "assets/images/1789478641091.webp"
+    ]
+  },
+  {
+    "title": "Summer Tylenol box",
+    "description": "",
+    "image": "assets/images/1789478550969.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Photoshop",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Summer Ferrero ball",
+    "description": "",
+    "image": "assets/images/1789478489582.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Photoshop",
+    "tags": [],
+    "details": [
+      "assets/images/1789478811958.webp"
+    ]
+  },
+  {
+    "title": "First Blender",
+    "description": "",
+    "image": "assets/images/1789478301350.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Blender",
+    "tags": [],
+    "details": [
+      "assets/images/1789478345179.webp",
+      "assets/images/1789478345380.webp",
+      "assets/images/1789478368430.webp",
+      "assets/images/1789478372187.webp",
+      "assets/images/1789478376459.webp"
+    ]
+  },
+  {
+    "title": "Modeling clay",
+    "description": "",
+    "image": "assets/images/1789478258971.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Craft",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "3D printing pen",
+    "description": "",
+    "image": "assets/images/1789478210105.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Craft",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Solar-cell tower",
+    "description": "",
+    "image": "assets/images/1789478155843.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Craft",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Plant",
+    "description": "",
+    "image": "assets/images/1789478130214.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Craft",
+    "tags": [],
+    "details": []
+  },
+  {
     "title": "RoboCat",
     "description": "",
     "image": "assets/images/1789474442733.webp",
@@ -7,6 +258,58 @@
     "demo": "",
     "year": null,
     "model": "assets/models/1789474452379.glb",
+    "featured": true,
+    "skill_name": "Nomad",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Doraemon",
+    "description": "",
+    "image": "assets/images/1789456802037.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789455655856.glb",
+    "featured": false,
+    "skill_name": "Nomad",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Dog",
+    "description": "",
+    "image": "assets/images/1789456776920.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789455629695.glb",
+    "featured": false,
+    "skill_name": "Nomad",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Cat",
+    "description": "",
+    "image": "assets/images/1789456739368.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789455384227.glb",
+    "featured": false,
+    "skill_name": "Nomad",
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "Bag Clicker",
+    "description": "",
+    "image": "assets/images/1789456826173.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789455288234.glb",
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
@@ -650,6 +953,19 @@
     "details": []
   },
   {
+    "title": "Batman",
+    "description": "",
+    "image": "assets/images/1789463270596.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789456195597.glb",
+    "featured": false,
+    "skill_name": "Nomad",
+    "tags": [],
+    "details": []
+  },
+  {
     "title": "ไข่ต้ม",
     "description": "",
     "image": "assets/images/1789465652614.webp",
@@ -671,72 +987,7 @@
     "year": null,
     "model": "assets/models/1789455715788.glb",
     "featured": false,
-    "skill_name": null,
-    "tags": [],
-    "details": []
-  },
-  {
-    "title": "Batman",
-    "description": "",
-    "image": "assets/images/1789463270596.webp",
-    "link": "",
-    "demo": "",
-    "year": null,
-    "model": "assets/models/1789456195597.glb",
-    "featured": false,
-    "skill_name": null,
-    "tags": [],
-    "details": []
-  },
-  {
-    "title": "Cat",
-    "description": "",
-    "image": "assets/images/1789456739368.webp",
-    "link": "",
-    "demo": "",
-    "year": null,
-    "model": "assets/models/1789455384227.glb",
-    "featured": false,
     "skill_name": "Nomad",
-    "tags": [],
-    "details": []
-  },
-  {
-    "title": "Bag Clicker",
-    "description": "",
-    "image": "assets/images/1789456826173.webp",
-    "link": "",
-    "demo": "",
-    "year": null,
-    "model": "assets/models/1789455288234.glb",
-    "featured": false,
-    "skill_name": "Nomad",
-    "tags": [],
-    "details": []
-  },
-  {
-    "title": "Dog",
-    "description": "",
-    "image": "assets/images/1789456776920.webp",
-    "link": "",
-    "demo": "",
-    "year": null,
-    "model": "assets/models/1789455629695.glb",
-    "featured": false,
-    "skill_name": null,
-    "tags": [],
-    "details": []
-  },
-  {
-    "title": "Doraemon",
-    "description": "",
-    "image": "assets/images/1789456802037.webp",
-    "link": "",
-    "demo": "",
-    "year": null,
-    "model": "assets/models/1789455655856.glb",
-    "featured": false,
-    "skill_name": null,
     "tags": [],
     "details": []
   },
@@ -749,7 +1000,7 @@
     "year": null,
     "model": "assets/models/1789456597647.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -762,7 +1013,7 @@
     "year": null,
     "model": "assets/models/1789457252471.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -775,7 +1026,7 @@
     "year": null,
     "model": "assets/models/1789457318472.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -788,7 +1039,7 @@
     "year": null,
     "model": "assets/models/1789457871357.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -801,7 +1052,7 @@
     "year": null,
     "model": "assets/models/1789463202307.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -814,7 +1065,7 @@
     "year": null,
     "model": "assets/models/1789463335736.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -827,7 +1078,7 @@
     "year": null,
     "model": "assets/models/1789463411361.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   },
@@ -840,7 +1091,7 @@
     "year": null,
     "model": "assets/models/1789465513538.glb",
     "featured": false,
-    "skill_name": null,
+    "skill_name": "Nomad",
     "tags": [],
     "details": []
   }

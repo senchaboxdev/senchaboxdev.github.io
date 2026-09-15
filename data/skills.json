@@ -1,25 +1,5 @@
 [
   {
-    "name": "Autodesk Fusion 360",
-    "projects": []
-  },
-  {
-    "name": "drawing",
-    "projects": []
-  },
-  {
-    "name": "git commands",
-    "projects": []
-  },
-  {
-    "name": "slack",
-    "projects": []
-  },
-  {
-    "name": "Blender",
-    "projects": []
-  },
-  {
     "name": "Nomad",
     "projects": [
       {
@@ -30,6 +10,54 @@
         "demo": "",
         "year": null,
         "model": "assets/models/1789474452379.glb",
+        "featured": true,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Doraemon",
+        "description": "",
+        "image": "assets/images/1789456802037.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "assets/models/1789455655856.glb",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Dog",
+        "description": "",
+        "image": "assets/images/1789456776920.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "assets/models/1789455629695.glb",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Cat",
+        "description": "",
+        "image": "assets/images/1789456739368.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "assets/models/1789455384227.glb",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Bag Clicker",
+        "description": "",
+        "image": "assets/images/1789456826173.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "assets/models/1789455288234.glb",
         "featured": false,
         "tags": [],
         "details": []
@@ -623,67 +651,6 @@
         "details": []
       },
       {
-        "title": "ไข่ต้ม",
-        "description": "",
-        "image": "assets/images/1789465652614.webp",
-        "link": "",
-        "demo": "",
-        "year": null,
-        "model": "assets/models/1789465673996.glb",
-        "featured": false,
-        "tags": [],
-        "details": []
-      },
-      {
-        "title": "Cat",
-        "description": "",
-        "image": "assets/images/1789456739368.webp",
-        "link": "",
-        "demo": "",
-        "year": null,
-        "model": "assets/models/1789455384227.glb",
-        "featured": false,
-        "tags": [],
-        "details": []
-      },
-      {
-        "title": "Bag Clicker",
-        "description": "",
-        "image": "assets/images/1789456826173.webp",
-        "link": "",
-        "demo": "",
-        "year": null,
-        "model": "assets/models/1789455288234.glb",
-        "featured": false,
-        "tags": [],
-        "details": []
-      }
-    ]
-  },
-  {
-    "name": "Photoshop",
-    "projects": []
-  },
-  {
-    "name": "illustrator",
-    "projects": []
-  },
-  {
-    "name": "Other",
-    "projects": [
-      {
-        "title": "Slime",
-        "description": "",
-        "image": "assets/images/1789455792160.webp",
-        "link": "",
-        "demo": "",
-        "year": null,
-        "model": "assets/models/1789455715788.glb",
-        "featured": false,
-        "tags": [],
-        "details": []
-      },
-      {
         "title": "Batman",
         "description": "",
         "image": "assets/images/1789463270596.webp",
@@ -696,25 +663,25 @@
         "details": []
       },
       {
-        "title": "Dog",
+        "title": "ไข่ต้ม",
         "description": "",
-        "image": "assets/images/1789456776920.webp",
+        "image": "assets/images/1789465652614.webp",
         "link": "",
         "demo": "",
         "year": null,
-        "model": "assets/models/1789455629695.glb",
+        "model": "assets/models/1789465673996.glb",
         "featured": false,
         "tags": [],
         "details": []
       },
       {
-        "title": "Doraemon",
+        "title": "Slime",
         "description": "",
-        "image": "assets/images/1789456802037.webp",
+        "image": "assets/images/1789455792160.webp",
         "link": "",
         "demo": "",
         "year": null,
-        "model": "assets/models/1789455655856.glb",
+        "model": "assets/models/1789455715788.glb",
         "featured": false,
         "tags": [],
         "details": []
@@ -816,5 +783,276 @@
         "details": []
       }
     ]
+  },
+  {
+    "name": "Blender",
+    "projects": [
+      {
+        "title": "First Blender",
+        "description": "",
+        "image": "assets/images/1789478301350.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478345179.webp",
+          "assets/images/1789478345380.webp",
+          "assets/images/1789478368430.webp",
+          "assets/images/1789478372187.webp",
+          "assets/images/1789478376459.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fusion 360",
+    "projects": []
+  },
+  {
+    "name": "Illustrator",
+    "projects": [
+      {
+        "title": "Design Line sticker",
+        "description": "",
+        "image": "assets/images/1789479343942.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789479356024.webp",
+          "assets/images/1789479385096.webp",
+          "assets/images/1789479385373.webp",
+          "assets/images/1789479385641.webp",
+          "assets/images/1789479392295.jpg",
+          "assets/images/1789479398287.webp",
+          "assets/images/1789479401700.webp",
+          "assets/images/1789479412475.webp",
+          "assets/images/1789479423844.webp",
+          "assets/images/1789479428389.webp",
+          "assets/images/1789479428629.webp",
+          "assets/images/1789479428866.webp",
+          "assets/images/1789479429117.webp",
+          "assets/images/1789479429316.webp",
+          "assets/images/1789479429581.webp",
+          "assets/images/1789479429804.webp"
+        ]
+      },
+      {
+        "title": "Father day",
+        "description": "",
+        "image": "assets/images/1789479225979.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789479233652.webp",
+          "assets/images/1789479229671.webp"
+        ]
+      },
+      {
+        "title": "Summer AIA logo for team",
+        "description": "",
+        "image": "assets/images/1789479126958.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789479139188.webp",
+          "assets/images/1789479130800.webp"
+        ]
+      },
+      {
+        "title": "Summer Solo Leveling",
+        "description": "",
+        "image": "assets/images/1789479067575.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789479078877.webp",
+          "assets/images/1789479083836.webp"
+        ]
+      },
+      {
+        "title": "Summer Dragon",
+        "description": "",
+        "image": "assets/images/1789478893277.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478986423.webp",
+          "assets/images/1789478906295.webp"
+        ]
+      },
+      {
+        "title": "Summer Thailand",
+        "description": "",
+        "image": "assets/images/1789478863297.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Summer Dino",
+        "description": "",
+        "image": "assets/images/1789478778569.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478761276.webp"
+        ]
+      },
+      {
+        "title": "Summer Mask",
+        "description": "",
+        "image": "assets/images/1789478694508.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478713490.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Photoshop",
+    "projects": [
+      {
+        "title": "Summer cover book",
+        "description": "",
+        "image": "assets/images/1789478637255.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478641091.webp"
+        ]
+      },
+      {
+        "title": "Summer Tylenol box",
+        "description": "",
+        "image": "assets/images/1789478550969.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Summer Ferrero ball",
+        "description": "",
+        "image": "assets/images/1789478489582.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789478811958.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Craft",
+    "projects": [
+      {
+        "title": "Modeling clay",
+        "description": "",
+        "image": "assets/images/1789478258971.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "3D printing pen",
+        "description": "",
+        "image": "assets/images/1789478210105.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Solar-cell tower",
+        "description": "",
+        "image": "assets/images/1789478155843.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      },
+      {
+        "title": "Plant",
+        "description": "",
+        "image": "assets/images/1789478130214.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": []
+      }
+    ]
+  },
+  {
+    "name": "drawing",
+    "projects": []
+  },
+  {
+    "name": "git commands",
+    "projects": []
+  },
+  {
+    "name": "slack",
+    "projects": []
   }
 ]
