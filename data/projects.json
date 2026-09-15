@@ -45,9 +45,9 @@
     ]
   },
   {
-    "title": "xxx",
+    "title": "Bag Clicker",
     "description": "",
-    "image": "assets/images/1789455109186.webp",
+    "image": "assets/images/1789456826173.webp",
     "link": "",
     "demo": "",
     "year": null,
@@ -60,7 +60,7 @@
   {
     "title": "Dog",
     "description": "",
-    "image": "",
+    "image": "assets/images/1789456776920.webp",
     "link": "",
     "demo": "",
     "year": null,
@@ -73,7 +73,7 @@
   {
     "title": "Doraemon",
     "description": "",
-    "image": "",
+    "image": "assets/images/1789456802037.webp",
     "link": "",
     "demo": "",
     "year": null,
@@ -91,6 +91,32 @@
     "demo": "",
     "year": null,
     "model": "assets/models/1789456597647.glb",
+    "featured": false,
+    "skill_name": null,
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "assets/images/1789457207402.gif",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789457252471.glb",
+    "featured": false,
+    "skill_name": null,
+    "tags": [],
+    "details": []
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "assets/images/1789457343404.gif",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "assets/models/1789457318472.glb",
     "featured": false,
     "skill_name": null,
     "tags": [],
