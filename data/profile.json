@@ -1,0 +1,18 @@
+{
+  "name": "Namo",
+  "title": "Developer and Designer",
+  "subtitle": "I build things for Art, I love it",
+  "bio": "Hi! I'm a passionate developer who loves creating beautiful and functional web experiences. I specialize in turning ideas into reality through code.",
+  "avatar": "assets/namo/namo_profile.jpg",
+  "social": {
+    "github": "https://github.com/senchaboxdev",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "",
+    "email": "nakrit.thomthitchong@gmail.com"
+  },
+  "theme": {
+    "gradient1": "#667eea",
+    "gradient2": "#764ba2",
+    "accent": "#f093fb"
+  }
+}
