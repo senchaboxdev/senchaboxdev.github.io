@@ -788,6 +788,40 @@
     "name": "Blender",
     "projects": [
       {
+        "title": "Room",
+        "description": "",
+        "image": "assets/images/1789576797583.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789576779980.webp",
+          "assets/images/1789576780539.webp"
+        ]
+      },
+      {
+        "title": "Raft",
+        "description": "",
+        "image": "assets/images/1789576598162.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789576579273.webp",
+          "assets/images/1789576579685.webp",
+          "assets/images/1789576580038.webp",
+          "assets/images/1789576580452.webp",
+          "assets/images/1789576580798.webp",
+          "assets/images/1789576581148.webp"
+        ]
+      },
+      {
         "title": "Fountain",
         "description": "",
         "image": "assets/images/1789570065535.webp",
@@ -885,6 +919,59 @@
   {
     "name": "Fusion 360",
     "projects": [
+      {
+        "title": "Pharmacy sign",
+        "description": "",
+        "image": "assets/images/1789576379437.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789576417822.webp",
+          "assets/images/1789576418518.webp",
+          "assets/images/1789576415666.webp",
+          "assets/images/1789576416382.webp",
+          "assets/images/1789576417143.webp",
+          "assets/images/1789576409530.webp",
+          "assets/images/1789576419153.webp",
+          "assets/images/1789576414909.webp",
+          "assets/images/1789576405087.webp",
+          "assets/images/1789576405939.webp",
+          "assets/images/1789576406809.webp",
+          "assets/images/1789576407690.webp",
+          "assets/images/1789576408557.webp",
+          "assets/images/1789576410435.webp",
+          "assets/images/1789576411287.webp",
+          "assets/images/1789576412127.webp",
+          "assets/images/1789576412825.webp",
+          "assets/images/1789576413481.webp",
+          "assets/images/1789576414139.webp",
+          "assets/images/1789576403985.webp",
+          "assets/images/1789576476188.webp",
+          "assets/images/1789576476956.webp"
+        ]
+      },
+      {
+        "title": "Fox USB stand",
+        "description": "",
+        "image": "assets/images/1789576337109.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789576349655.webp",
+          "assets/images/1789576350493.webp",
+          "assets/images/1789576351257.webp",
+          "assets/images/1789576351961.webp",
+          "assets/images/1789576352505.webp"
+        ]
+      },
       {
         "title": "Gift box",
         "description": "",
@@ -1166,7 +1253,30 @@
           "assets/images/1789574825075.webp",
           "assets/images/1789574825591.webp",
           "assets/images/1789574826153.webp",
-          "assets/images/1789574826721.webp"
+          "assets/images/1789574826721.webp",
+          "assets/images/1789576518813.webp",
+          "assets/images/1789576519794.webp",
+          "assets/images/1789576520730.webp",
+          "assets/images/1789576521539.webp",
+          "assets/images/1789576522199.webp",
+          "assets/images/1789576522595.webp",
+          "assets/images/1789576523000.webp",
+          "assets/images/1789576523627.webp",
+          "assets/images/1789576524256.webp",
+          "assets/images/1789576524867.webp",
+          "assets/images/1789576525471.webp",
+          "assets/images/1789576526076.webp",
+          "assets/images/1789576526711.webp",
+          "assets/images/1789576527337.webp",
+          "assets/images/1789576527912.webp",
+          "assets/images/1789576528597.webp",
+          "assets/images/1789576529258.webp",
+          "assets/images/1789576529927.webp",
+          "assets/images/1789576530445.webp",
+          "assets/images/1789576530968.webp",
+          "assets/images/1789576531496.webp",
+          "assets/images/1789576532068.webp",
+          "assets/images/1789576532588.webp"
         ]
       },
       {
@@ -1488,6 +1598,8 @@
         "tags": [],
         "details": [
           "assets/images/1789481635424.webp",
+          "assets/images/1789576210464.webp",
+          "assets/images/1789576210151.webp",
           "assets/images/1789479356024.webp",
           "assets/images/1789481261568.webp",
           "assets/images/1789479385096.webp",
@@ -1498,7 +1610,6 @@
           "assets/images/1789479398287.webp",
           "assets/images/1789479401700.webp",
           "assets/images/1789479412475.webp",
-          "assets/images/1789479423844.webp",
           "assets/images/1789481773970.webp",
           "assets/images/1789481774047.webp",
           "assets/images/1789481774114.webp",
@@ -1585,7 +1696,11 @@
           "assets/images/1789572872562.webp",
           "assets/images/1789572884413.webp",
           "assets/images/1789572893272.webp",
-          "assets/images/1789573061707.webp"
+          "assets/images/1789573061707.webp",
+          "assets/images/1789576253663.webp",
+          "assets/images/1789576253889.webp",
+          "assets/images/1789576254080.webp",
+          "assets/images/1789576254300.webp"
         ]
       },
       {
@@ -2297,6 +2412,32 @@
   {
     "name": "drawing",
     "projects": [
+      {
+        "title": "Gundum",
+        "description": "",
+        "image": "assets/images/1789576677160.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789576634682.webp",
+          "assets/images/1789576635182.webp",
+          "assets/images/1789576635589.webp",
+          "assets/images/1789576635969.webp",
+          "assets/images/1789576636389.webp",
+          "assets/images/1789576636876.webp",
+          "assets/images/1789576637363.webp",
+          "assets/images/1789576637757.webp",
+          "assets/images/1789576638293.webp",
+          "assets/images/1789576638748.webp",
+          "assets/images/1789576639498.webp",
+          "assets/images/1789576640095.webp",
+          "assets/images/1789576640644.webp"
+        ]
+      },
       {
         "title": "Love in drawing 5th",
         "description": "",
