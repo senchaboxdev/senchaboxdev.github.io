@@ -788,6 +788,127 @@
     "name": "Blender",
     "projects": [
       {
+        "title": "Dragon from Udemy",
+        "description": "",
+        "image": "assets/images/1789654356800-crop.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789654322407.webp",
+          "assets/images/1789654323129.webp",
+          "assets/images/1789654323742.webp",
+          "assets/images/1789654324334.webp",
+          "assets/images/1789654324829.webp",
+          "assets/images/1789654325296.webp",
+          "assets/images/1789654325759.webp",
+          "assets/images/1789654326225.webp",
+          "assets/images/1789654326783.webp",
+          "assets/images/1789654327327.webp",
+          "assets/images/1789654327800.webp"
+        ]
+      },
+      {
+        "title": "Helicopter from Blender",
+        "description": "",
+        "image": "assets/images/1789654152257.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789654134760.webp",
+          "assets/images/1789654135573.webp",
+          "assets/images/1789654136237.webp",
+          "assets/images/1789654136945.webp",
+          "assets/images/1789654137613.webp",
+          "assets/images/1789654138263.webp"
+        ]
+      },
+      {
+        "title": "HBD Mom 3d printing ring",
+        "description": "",
+        "image": "assets/images/1789653991637.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789653937474.webp",
+          "assets/images/1789653938016.webp",
+          "assets/images/1789653938551.webp"
+        ]
+      },
+      {
+        "title": "House from Udemy",
+        "description": "",
+        "image": "assets/images/1789653793430.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789653803207.webp"
+        ]
+      },
+      {
+        "title": "Robot from Udemy",
+        "description": "",
+        "image": "assets/images/1789652959051.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789652911288.webp",
+          "assets/images/1789652911639.webp",
+          "assets/images/1789652912039.webp",
+          "assets/images/1789652912411.webp",
+          "assets/images/1789652912771.webp",
+          "assets/images/1789652913083.webp",
+          "assets/images/1789652913438.webp",
+          "assets/images/1789652913799.webp",
+          "assets/images/1789653017021.webp",
+          "assets/images/1789653017644.webp",
+          "assets/images/1789653018195.webp",
+          "assets/images/1789653018695.webp"
+        ]
+      },
+      {
+        "title": "Playing with Blender",
+        "description": "",
+        "image": "assets/images/1789652630925.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789652495380.webp",
+          "assets/images/1789652498360.webp",
+          "assets/images/1789652501912.webp",
+          "assets/images/1789652511263.webp",
+          "assets/images/1789653154279.webp",
+          "assets/images/1789653154664.webp",
+          "assets/images/1789653154977.webp",
+          "assets/images/1789653155345.webp",
+          "assets/images/1789653357049.webp",
+          "assets/images/1789653365674.webp"
+        ]
+      },
+      {
         "title": "Room",
         "description": "",
         "image": "assets/images/1789576797583.webp",
@@ -888,7 +1009,8 @@
           "assets/images/1789569726052.webp",
           "assets/images/1789569730152.webp",
           "assets/images/1789569735787.webp",
-          "assets/images/1789569765353.webp"
+          "assets/images/1789569765353.webp",
+          "assets/images/1789653969361.webp"
         ]
       },
       {
@@ -911,7 +1033,8 @@
           "assets/images/1789569555406.webp",
           "assets/images/1789573481695.webp",
           "assets/images/1789569566514.webp",
-          "assets/images/1789569586208.webp"
+          "assets/images/1789569586208.webp",
+          "assets/images/1789653834307.webp"
         ]
       }
     ]
@@ -919,6 +1042,266 @@
   {
     "name": "Fusion 360",
     "projects": [
+      {
+        "title": "Cloud water experiment",
+        "description": "",
+        "image": "assets/images/1789651824386.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651740248.webp",
+          "assets/images/1789651740820.webp",
+          "assets/images/1789651741278.webp",
+          "assets/images/1789651741654.webp",
+          "assets/images/1789651742030.webp",
+          "assets/images/1789651742397.webp",
+          "assets/images/1789651742764.webp",
+          "assets/images/1789651743135.webp",
+          "assets/images/1789651743492.webp",
+          "assets/images/1789651743817.webp",
+          "assets/images/1789651744393.webp",
+          "assets/images/1789651744995.webp",
+          "assets/images/1789651745536.webp",
+          "assets/images/1789651746023.webp",
+          "assets/images/1789651746529.webp",
+          "assets/images/1789651747048.webp",
+          "assets/images/1789651747537.webp",
+          "assets/images/1789651748048.webp",
+          "assets/images/1789651748577.webp",
+          "assets/images/1789651748889.webp",
+          "assets/images/1789651749194.webp",
+          "assets/images/1789651749505.webp",
+          "assets/images/1789651749817.webp",
+          "assets/images/1789651750135.webp",
+          "assets/images/1789651750451.webp",
+          "assets/images/1789651750780.webp",
+          "assets/images/1789651751093.webp",
+          "assets/images/1789651751399.webp",
+          "assets/images/1789651751697.webp",
+          "assets/images/1789651751996.webp",
+          "assets/images/1789651752353.webp"
+        ]
+      },
+      {
+        "title": "Ghost",
+        "description": "",
+        "image": "assets/images/1789651406515.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651415982.webp",
+          "assets/images/1789651416329.webp",
+          "assets/images/1789651416679.webp",
+          "assets/images/1789651436367.webp",
+          "assets/images/1789651445756.webp"
+        ]
+      },
+      {
+        "title": "Noob Rocket with flashlight",
+        "description": "",
+        "image": "assets/images/1789650573242.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651212748.webp",
+          "assets/images/1789651017133.webp",
+          "assets/images/1789651182684.webp",
+          "assets/images/1789651192184.webp",
+          "assets/images/1789650578818.webp",
+          "assets/images/1789650579338.webp",
+          "assets/images/1789650579897.webp",
+          "assets/images/1789651015973.webp",
+          "assets/images/1789651016370.webp",
+          "assets/images/1789651016775.webp",
+          "assets/images/1789651210302.webp",
+          "assets/images/1789651210737.webp",
+          "assets/images/1789651211135.webp",
+          "assets/images/1789651211540.webp",
+          "assets/images/1789651212095.webp",
+          "assets/images/1789651212409.webp",
+          "assets/images/1789651372550.webp",
+          "assets/images/1789651373113.webp",
+          "assets/images/1789651373504.webp",
+          "assets/images/1789651374002.webp",
+          "assets/images/1789651374524.webp",
+          "assets/images/1789651374839.webp",
+          "assets/images/1789651375153.webp",
+          "assets/images/1789651375664.webp",
+          "assets/images/1789651375993.webp",
+          "assets/images/1789651376328.webp",
+          "assets/images/1789651376673.webp",
+          "assets/images/1789651377007.webp",
+          "assets/images/1789651377327.webp",
+          "assets/images/1789651377635.webp",
+          "assets/images/1789651377939.webp",
+          "assets/images/1789651378253.webp",
+          "assets/images/1789651378782.webp",
+          "assets/images/1789651379323.webp",
+          "assets/images/1789651379841.webp",
+          "assets/images/1789651380342.webp",
+          "assets/images/1789651380897.webp",
+          "assets/images/1789651556617.webp",
+          "assets/images/1789651557310.webp",
+          "assets/images/1789651557989.webp",
+          "assets/images/1789651558515.webp",
+          "assets/images/1789651559100.webp",
+          "assets/images/1789651559643.webp",
+          "assets/images/1789651560192.webp",
+          "assets/images/1789651560843.webp",
+          "assets/images/1789651561254.webp",
+          "assets/images/1789651561685.webp",
+          "assets/images/1789651562102.webp",
+          "assets/images/1789651562527.webp",
+          "assets/images/1789651562906.webp",
+          "assets/images/1789651563297.webp",
+          "assets/images/1789651563687.webp",
+          "assets/images/1789651564066.webp",
+          "assets/images/1789651564464.webp",
+          "assets/images/1789651564864.webp",
+          "assets/images/1789651565365.webp",
+          "assets/images/1789651566039.webp",
+          "assets/images/1789651566498.webp",
+          "assets/images/1789651566930.webp",
+          "assets/images/1789651567383.webp",
+          "assets/images/1789651567820.webp",
+          "assets/images/1789651568237.webp",
+          "assets/images/1789651568682.webp",
+          "assets/images/1789651569201.webp",
+          "assets/images/1789651569624.webp",
+          "assets/images/1789651570028.webp",
+          "assets/images/1789651570421.webp",
+          "assets/images/1789651570842.webp",
+          "assets/images/1789651571236.webp",
+          "assets/images/1789651571848.webp",
+          "assets/images/1789651572407.webp",
+          "assets/images/1789651572965.webp",
+          "assets/images/1789651573544.webp",
+          "assets/images/1789651574153.webp",
+          "assets/images/1789651574675.webp",
+          "assets/images/1789651575177.webp",
+          "assets/images/1789651575746.webp",
+          "assets/images/1789651576336.webp",
+          "assets/images/1789651576989.webp",
+          "assets/images/1789651577428.webp",
+          "assets/images/1789651577813.webp",
+          "assets/images/1789651578252.webp",
+          "assets/images/1789651578625.webp",
+          "assets/images/1789651578887.webp"
+        ]
+      },
+      {
+        "title": "TNT Roblox",
+        "description": "",
+        "image": "assets/images/1789651312496.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651291594.webp",
+          "assets/images/1789651292252.webp",
+          "assets/images/1789651292578.webp",
+          "assets/images/1789651292891.webp",
+          "assets/images/1789651293429.webp",
+          "assets/images/1789651293782.webp",
+          "assets/images/1789651294114.webp",
+          "assets/images/1789651294447.webp"
+        ]
+      },
+      {
+        "title": "Curtain Track Clip",
+        "description": "",
+        "image": "assets/images/1789651104641.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651126817.webp",
+          "assets/images/1789651126259.webp",
+          "assets/images/1789651123671.webp",
+          "assets/images/1789651124248.webp",
+          "assets/images/1789651125708.webp",
+          "assets/images/1789651125441.webp",
+          "assets/images/1789651124562.webp",
+          "assets/images/1789651124859.webp",
+          "assets/images/1789651125151.webp",
+          "assets/images/1789651125974.webp",
+          "assets/images/1789651127284.webp",
+          "assets/images/1789651127788.webp",
+          "assets/images/1789651129227.webp",
+          "assets/images/1789651128771.webp",
+          "assets/images/1789651128313.webp"
+        ]
+      },
+      {
+        "title": "Hanger design2",
+        "description": "",
+        "image": "assets/images/1789650914832.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789650812453.webp",
+          "assets/images/1789650812798.webp",
+          "assets/images/1789650813147.webp",
+          "assets/images/1789650813486.webp",
+          "assets/images/1789650813866.webp",
+          "assets/images/1789650814214.webp",
+          "assets/images/1789650814564.webp",
+          "assets/images/1789650814978.webp",
+          "assets/images/1789650815362.webp",
+          "assets/images/1789650815728.webp",
+          "assets/images/1789650816080.webp",
+          "assets/images/1789650816428.webp",
+          "assets/images/1789650816766.webp",
+          "assets/images/1789650817146.webp",
+          "assets/images/1789650817507.webp",
+          "assets/images/1789650817840.webp"
+        ]
+      },
+      {
+        "title": "Soap Dish",
+        "description": "",
+        "image": "assets/images/1789650224155.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789650520896.webp",
+          "assets/images/1789650521293.webp",
+          "assets/images/1789650521870.webp",
+          "assets/images/1789650522364.webp",
+          "assets/images/1789650522678.webp",
+          "assets/images/1789650523011.webp",
+          "assets/images/1789650523337.webp",
+          "assets/images/1789650523659.webp",
+          "assets/images/1789650524074.webp",
+          "assets/images/1789650524367.webp"
+        ]
+      },
       {
         "title": "Pharmacy sign",
         "description": "",
@@ -983,6 +1366,12 @@
         "featured": false,
         "tags": [],
         "details": [
+          "assets/images/1789650660029.webp",
+          "assets/images/1789650657957.webp",
+          "assets/images/1789650658577.webp",
+          "assets/images/1789650658950.webp",
+          "assets/images/1789650659318.webp",
+          "assets/images/1789650659671.webp",
           "assets/images/1789575978143.webp",
           "assets/images/1789575978568.webp",
           "assets/images/1789575979333.webp",
@@ -1027,7 +1416,8 @@
           "assets/images/1789575999639.webp",
           "assets/images/1789576000162.webp",
           "assets/images/1789576000667.webp",
-          "assets/images/1789576001188.webp"
+          "assets/images/1789576001188.webp",
+          "assets/images/1789650657352.webp"
         ]
       },
       {
@@ -1082,6 +1472,7 @@
         "tags": [],
         "details": [
           "assets/images/1789575725987.webp",
+          "assets/images/1789650748085.webp",
           "assets/images/1789575726827.webp",
           "assets/images/1789575727207.webp",
           "assets/images/1789575727552.webp",
@@ -1555,7 +1946,10 @@
           "assets/images/1789571223327.webp",
           "assets/images/1789569474137.webp",
           "assets/images/1789569474084.webp",
-          "assets/images/1789569474180.webp"
+          "assets/images/1789569474180.webp",
+          "assets/images/1789653756010.webp",
+          "assets/images/1789653756238.webp",
+          "assets/images/1789653756434.webp"
         ]
       }
     ]
@@ -1758,11 +2152,12 @@
         "details": [
           "assets/images/1789479233652.webp",
           "assets/images/1789479229671.webp",
-          "assets/images/1789573037768.webp"
+          "assets/images/1789573037768.webp",
+          "assets/images/1789653665626.webp"
         ]
       },
       {
-        "title": "Summer AIA logo for team",
+        "title": "AIA logo for team",
         "description": "",
         "image": "assets/images/1789479126958.webp",
         "link": "",
@@ -1780,7 +2175,7 @@
         ]
       },
       {
-        "title": "Summer Solo Leveling",
+        "title": "Solo Leveling",
         "description": "",
         "image": "assets/images/1789479067575.webp",
         "link": "",
@@ -1797,11 +2192,14 @@
           "assets/images/1789570850126.webp",
           "assets/images/1789570867567.webp",
           "assets/images/1789570867982.webp",
-          "assets/images/1789570868378.webp"
+          "assets/images/1789570868378.webp",
+          "assets/images/1789653864790.webp",
+          "assets/images/1789653865045.webp",
+          "assets/images/1789653865275.webp"
         ]
       },
       {
-        "title": "Summer Dragon",
+        "title": "Stylus Dragon",
         "description": "",
         "image": "assets/images/1789478893277.webp",
         "link": "",
@@ -2413,6 +2811,90 @@
     "name": "drawing",
     "projects": [
       {
+        "title": "Lightning Roblox",
+        "description": "",
+        "image": "assets/images/1789654784978.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789652428761.webp",
+          "assets/images/1789654804783-straight.webp"
+        ]
+      },
+      {
+        "title": "Son Goku",
+        "description": "",
+        "image": "assets/images/1789652230377.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789652192438.webp",
+          "assets/images/1789652196418.webp",
+          "assets/images/1789652210877.webp",
+          "assets/images/1789652211498.webp",
+          "assets/images/1789652212033.webp",
+          "assets/images/1789652212583.webp",
+          "assets/images/1789652212939.webp",
+          "assets/images/1789652213484.webp",
+          "assets/images/1789652213881.webp",
+          "assets/images/1789652214426.webp"
+        ]
+      },
+      {
+        "title": "My late Homework",
+        "description": "",
+        "image": "assets/images/1789652078248.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789652061124.webp",
+          "assets/images/1789652061649.webp",
+          "assets/images/1789652062057.webp",
+          "assets/images/1789652062433.webp",
+          "assets/images/1789652062807.webp"
+        ]
+      },
+      {
+        "title": "Charlotte Katakuri",
+        "description": "",
+        "image": "assets/images/1789651921623.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789651934453.webp",
+          "assets/images/1789651935243.webp",
+          "assets/images/1789651935953.webp",
+          "assets/images/1789651936279.webp",
+          "assets/images/1789651936610.webp",
+          "assets/images/1789651936984.webp",
+          "assets/images/1789651937336.webp",
+          "assets/images/1789651937671.webp",
+          "assets/images/1789651938103.webp",
+          "assets/images/1789651944686.webp",
+          "assets/images/1789651945436.webp",
+          "assets/images/1789652130527.webp",
+          "assets/images/1789652130993.webp",
+          "assets/images/1789652131644.webp",
+          "assets/images/1789652132029.webp"
+        ]
+      },
+      {
         "title": "Gundum",
         "description": "",
         "image": "assets/images/1789576677160.webp",
@@ -2435,7 +2917,8 @@
           "assets/images/1789576638748.webp",
           "assets/images/1789576639498.webp",
           "assets/images/1789576640095.webp",
-          "assets/images/1789576640644.webp"
+          "assets/images/1789576640644.webp",
+          "assets/images/1789653599593.webp"
         ]
       },
       {
@@ -2454,13 +2937,15 @@
           "assets/images/1789574505790.webp",
           "assets/images/1789574520115.webp",
           "assets/images/1789574524745.webp",
-          "assets/images/1789574529926.webp"
+          "assets/images/1789574529926.webp",
+          "assets/images/1789653632919.webp",
+          "assets/images/1789653721226.webp"
         ]
       },
       {
         "title": "Love in drawing 4th",
         "description": "",
-        "image": "assets/images/1789571157071.webp",
+        "image": "assets/images/1789654865448-crop.webp",
         "link": "",
         "demo": "",
         "year": null,
@@ -2475,7 +2960,7 @@
           "assets/images/1789566666011.webp",
           "assets/images/1789566666614.webp",
           "assets/images/1789566667174.webp",
-          "assets/images/1789566667727.webp",
+          "assets/images/1789654882668.webp",
           "assets/images/1789566668282.webp",
           "assets/images/1789566668891.webp",
           "assets/images/1789566669479.webp",
@@ -2528,13 +3013,13 @@
           "assets/images/1789566696080.webp",
           "assets/images/1789566696723.webp",
           "assets/images/1789566697471.webp",
-          "assets/images/1789566698269.webp",
-          "assets/images/1789566698849.webp",
-          "assets/images/1789566699419.webp",
-          "assets/images/1789566700004.webp",
-          "assets/images/1789566700716.webp",
+          "assets/images/1789654996628-straight.webp",
+          "assets/images/1789655035678-straight.webp",
+          "assets/images/1789654974805-crop.webp",
+          "assets/images/1789654941092-straight.webp",
+          "assets/images/1789654907117-crop.webp",
           "assets/images/1789566701267.webp",
-          "assets/images/1789566701421.webp"
+          "assets/images/1789655058333-crop.webp"
         ]
       },
       {
@@ -2731,7 +3216,7 @@
       {
         "title": "Love in drawing 1st",
         "description": "",
-        "image": "assets/images/1789481670414.webp",
+        "image": "assets/images/1789655110956-crop.webp",
         "link": "",
         "demo": "",
         "year": null,
@@ -2828,6 +3313,27 @@
   },
   {
     "name": "slack",
-    "projects": []
+    "projects": [
+      {
+        "title": "Working with my dad",
+        "description": "",
+        "image": "assets/images/1789654651873.webp",
+        "link": "",
+        "demo": "",
+        "year": null,
+        "model": "",
+        "featured": false,
+        "tags": [],
+        "details": [
+          "assets/images/1789654663007.webp",
+          "assets/images/1789654663425.webp",
+          "assets/images/1789654663787.webp",
+          "assets/images/1789654664185.webp",
+          "assets/images/1789654664549.webp",
+          "assets/images/1789654664902.webp",
+          "assets/images/1789654665259.webp"
+        ]
+      }
+    ]
   }
 ]
