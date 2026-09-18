@@ -1,5 +1,22 @@
 [
   {
+    "title": "I can bake",
+    "description": "",
+    "image": "assets/images/1789726932294.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Craft",
+    "tags": [],
+    "details": [
+      "assets/images/1789726924842.webp",
+      "assets/images/1789726925036.webp",
+      "assets/images/1789726925233.webp"
+    ]
+  },
+  {
     "title": "Hard work is behind the success",
     "description": "",
     "image": "assets/images/1789569489202.webp",
@@ -2681,7 +2698,7 @@
   {
     "title": "Doraemon",
     "description": "",
-    "image": "assets/images/1789456802037.webp",
+    "image": "assets/images/1789727622453.webp",
     "link": "",
     "demo": "",
     "year": null,
@@ -2689,7 +2706,15 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789728027730.webp",
+      "assets/images/1789727655891.webp",
+      "assets/images/1789727424644.webp",
+      "assets/images/1789727649883.webp",
+      "assets/images/1789727725290.webp",
+      "assets/images/1789727724702.webp",
+      "assets/images/1789727424363.webp"
+    ]
   },
   {
     "title": "Dog",
@@ -2702,7 +2727,13 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789727830323.webp",
+      "assets/images/1789728073442.webp",
+      "assets/images/1789728693935.webp",
+      "assets/images/1789727027912.webp",
+      "assets/images/1789727004227.webp"
+    ]
   },
   {
     "title": "Cat",
@@ -2715,7 +2746,13 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789727901526.webp",
+      "assets/images/1789727902046.webp",
+      "assets/images/1789727902498.webp",
+      "assets/images/1789727042241.webp",
+      "assets/images/1789727072971-crop.webp"
+    ]
   },
   {
     "title": "Bag Clicker",
@@ -2728,7 +2765,15 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789727776886.webp",
+      "assets/images/1789727775447.webp",
+      "assets/images/1789727774935.webp",
+      "assets/images/1789727775910.webp",
+      "assets/images/1789727776364.webp",
+      "assets/images/1789727777359.webp",
+      "assets/images/1789727795183-crop.webp"
+    ]
   },
   {
     "title": "Red robot",
