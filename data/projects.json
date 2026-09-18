@@ -43,7 +43,10 @@
       "assets/images/1789717099386-crop.webp",
       "assets/images/1789717112477.webp",
       "assets/images/1789717044062.webp",
-      "assets/images/1789729728086.webp"
+      "assets/images/1789729728086.webp",
+      "assets/images/1789739318455.webp",
+      "assets/images/1789739318668.webp",
+      "assets/images/1789739318887.webp"
     ]
   },
   {
@@ -2929,7 +2932,9 @@
       "assets/images/1789738362252.webp",
       "assets/images/1789738363064.webp",
       "assets/images/1789738363890.webp",
-      "assets/images/1789738364635.webp"
+      "assets/images/1789738364635.webp",
+      "assets/images/1789739613800.webp",
+      "assets/images/1789739614186.webp"
     ]
   },
   {
@@ -2943,7 +2948,30 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738732004.webp",
+      "assets/images/1789738732853.webp",
+      "assets/images/1789738733593.webp",
+      "assets/images/1789739140163.webp",
+      "assets/images/1789739140701.webp",
+      "assets/images/1789739174663-crop.webp",
+      "assets/images/1789739180188-crop.webp",
+      "assets/images/1789739142080.webp",
+      "assets/images/1789739142569.webp",
+      "assets/images/1789739143169.webp",
+      "assets/images/1789739143613.webp",
+      "assets/images/1789739144053.webp",
+      "assets/images/1789739144559.webp",
+      "assets/images/1789739144944.webp",
+      "assets/images/1789739145339.webp",
+      "assets/images/1789739195219-crop.webp",
+      "assets/images/1789739238267.webp",
+      "assets/images/1789739238719.webp",
+      "assets/images/1789739239392.webp",
+      "assets/images/1789739239903.webp",
+      "assets/images/1789739240567.webp",
+      "assets/images/1789739630868.webp"
+    ]
   },
   {
     "title": "Dentist",
@@ -2956,7 +2984,16 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789739092024.webp",
+      "assets/images/1789739087153.webp",
+      "assets/images/1789739087610.webp",
+      "assets/images/1789739087997.webp",
+      "assets/images/1789739088379.webp",
+      "assets/images/1789739089413.webp",
+      "assets/images/1789739090288.webp",
+      "assets/images/1789739091191.webp"
+    ]
   },
   {
     "title": "Blade of mayhem",
@@ -2969,7 +3006,12 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789739340094.webp",
+      "assets/images/1789739406061.webp",
+      "assets/images/1789739350296.webp",
+      "assets/images/1789739365433-crop.webp"
+    ]
   },
   {
     "title": "Dungo",
@@ -3409,7 +3451,41 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738844135.webp",
+      "assets/images/1789738843571.webp",
+      "assets/images/1789738803289-crop.webp",
+      "assets/images/1789738810238-crop.webp",
+      "assets/images/1789738818500-crop.webp",
+      "assets/images/1789738795574.webp",
+      "assets/images/1789738948482.webp",
+      "assets/images/1789738948974.webp",
+      "assets/images/1789738949339.webp",
+      "assets/images/1789738949706.webp",
+      "assets/images/1789738950076.webp",
+      "assets/images/1789738950454.webp",
+      "assets/images/1789738950826.webp",
+      "assets/images/1789738951194.webp",
+      "assets/images/1789738951635.webp",
+      "assets/images/1789738979433-crop.webp",
+      "assets/images/1789738952388.webp",
+      "assets/images/1789738952768.webp",
+      "assets/images/1789738953155.webp",
+      "assets/images/1789738953533.webp",
+      "assets/images/1789738953905.webp",
+      "assets/images/1789738954288.webp",
+      "assets/images/1789739474354-crop.webp",
+      "assets/images/1789739452634.webp",
+      "assets/images/1789739483353-crop.webp",
+      "assets/images/1789739491969-crop.webp",
+      "assets/images/1789739508636-crop.webp",
+      "assets/images/1789739520076-crop.webp",
+      "assets/images/1789739529564-crop.webp",
+      "assets/images/1789739547085-crop.webp",
+      "assets/images/1789739456934.webp",
+      "assets/images/1789739457404.webp",
+      "assets/images/1789739576175.webp"
+    ]
   },
   {
     "title": "Gecko",
