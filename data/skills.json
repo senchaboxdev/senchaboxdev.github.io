@@ -33,13 +33,26 @@
         "tags": [],
         "details": [
           "assets/images/1789728027730.webp",
+          "assets/images/1789729451673.webp",
+          "assets/images/1789729452509.webp",
+          "assets/images/1789729453305.webp",
+          "assets/images/1789729342549.webp",
+          "assets/images/1789729357080.webp",
+          "assets/images/1789729245190.webp",
+          "assets/images/1789729253307.webp",
+          "assets/images/1789729226801.webp",
+          "assets/images/1789729235533.webp",
+          "assets/images/1789729201061.webp",
+          "assets/images/1789729214634.webp",
           "assets/images/1789728776695.webp",
+          "assets/images/1789729279189.webp",
           "assets/images/1789727655891.webp",
           "assets/images/1789727424644.webp",
           "assets/images/1789727649883.webp",
           "assets/images/1789727725290.webp",
           "assets/images/1789727724702.webp",
-          "assets/images/1789727424363.webp"
+          "assets/images/1789727424363.webp",
+          "assets/images/1789729476307.webp"
         ]
       },
       {
@@ -53,12 +66,15 @@
         "featured": false,
         "tags": [],
         "details": [
+          "assets/images/1789729663593.webp",
           "assets/images/1789727830323.webp",
+          "assets/images/1789729688180.webp",
           "assets/images/1789728073442.webp",
           "assets/images/1789728693935.webp",
+          "assets/images/1789728867512.webp",
+          "assets/images/1789729301985.webp",
           "assets/images/1789727027912.webp",
-          "assets/images/1789727004227.webp",
-          "assets/images/1789728867512.webp"
+          "assets/images/1789727004227.webp"
         ]
       },
       {
@@ -72,14 +88,19 @@
         "featured": false,
         "tags": [],
         "details": [
-          "assets/images/1789727901526.webp",
+          "assets/images/1789729168960.webp",
+          "assets/images/1789729422204.webp",
+          "assets/images/1789729422968.webp",
+          "assets/images/1789729423719.webp",
           "assets/images/1789728817568.webp",
           "assets/images/1789728844062.webp",
+          "assets/images/1789727901526.webp",
           "assets/images/1789727902046.webp",
           "assets/images/1789727902498.webp",
           "assets/images/1789727042241.webp",
           "assets/images/1789727072971-crop.webp",
-          "assets/images/1789728886988.webp"
+          "assets/images/1789728886988.webp",
+          "assets/images/1789729421342.webp"
         ]
       },
       {
@@ -93,7 +114,11 @@
         "featured": false,
         "tags": [],
         "details": [
+          "assets/images/1789729628255.webp",
           "assets/images/1789727776886.webp",
+          "assets/images/1789729389729.webp",
+          "assets/images/1789729314503.webp",
+          "assets/images/1789729322893.webp",
           "assets/images/1789728915613.webp",
           "assets/images/1789728912733.webp",
           "assets/images/1789728913188.webp",
@@ -141,7 +166,16 @@
         "model": "assets/models/1789474031667.glb",
         "featured": false,
         "tags": [],
-        "details": []
+        "details": [
+          "assets/images/1789729507455.webp",
+          "assets/images/1789729508422.webp",
+          "assets/images/1789729509275.webp",
+          "assets/images/1789729510129.webp",
+          "assets/images/1789729510995.webp",
+          "assets/images/1789729511879.webp",
+          "assets/images/1789729512773.webp",
+          "assets/images/1789729513720.webp"
+        ]
       },
       {
         "title": "Stone",
@@ -153,7 +187,9 @@
         "model": "assets/models/1789473891173.glb",
         "featured": false,
         "tags": [],
-        "details": []
+        "details": [
+          "assets/images/1789729577488.webp"
+        ]
       },
       {
         "title": "Transformer logo",
@@ -561,7 +597,9 @@
         "model": "assets/models/1789467756680.glb",
         "featured": false,
         "tags": [],
-        "details": []
+        "details": [
+          "assets/images/1789729559604.webp"
+        ]
       },
       {
         "title": "Sword from Blender",
@@ -609,7 +647,10 @@
         "model": "assets/models/1789467087280.glb",
         "featured": false,
         "tags": [],
-        "details": []
+        "details": [
+          "assets/images/1789729539302.webp",
+          "assets/images/1789729542655.webp"
+        ]
       },
       {
         "title": "Kotoku",
@@ -621,7 +662,9 @@
         "model": "assets/models/1789466727699.glb",
         "featured": false,
         "tags": [],
-        "details": []
+        "details": [
+          "assets/images/1789729599506.webp"
+        ]
       },
       {
         "title": "Manga Robot Fancy",
@@ -1116,7 +1159,8 @@
           "assets/images/1789717067356.webp",
           "assets/images/1789717099386-crop.webp",
           "assets/images/1789717112477.webp",
-          "assets/images/1789717044062.webp"
+          "assets/images/1789717044062.webp",
+          "assets/images/1789729728086.webp"
         ]
       },
       {
