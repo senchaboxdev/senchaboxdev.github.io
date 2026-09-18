@@ -457,6 +457,7 @@
     "skill_name": "slack",
     "tags": [],
     "details": [
+      "assets/images/1789738229037.webp",
       "assets/images/1789654663007.webp",
       "assets/images/1789654663425.webp",
       "assets/images/1789654663787.webp",
@@ -2835,7 +2836,11 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738575970.webp",
+      "assets/images/1789738576867.webp",
+      "assets/images/1789738577757.webp"
+    ]
   },
   {
     "title": "Blue Robot",
@@ -2849,6 +2854,15 @@
     "skill_name": "Nomad",
     "tags": [],
     "details": [
+      "assets/images/1789738069294.webp",
+      "assets/images/1789738597267.webp",
+      "assets/images/1789738597809.webp",
+      "assets/images/1789738091193-crop.webp",
+      "assets/images/1789738097790-crop.webp",
+      "assets/images/1789738083595-crop.webp",
+      "assets/images/1789738123332-crop.webp",
+      "assets/images/1789738111308-crop.webp",
+      "assets/images/1789738067877.webp",
       "assets/images/1789729507455.webp",
       "assets/images/1789729508422.webp",
       "assets/images/1789729509275.webp",
@@ -2856,7 +2870,8 @@
       "assets/images/1789729510995.webp",
       "assets/images/1789729511879.webp",
       "assets/images/1789729512773.webp",
-      "assets/images/1789729513720.webp"
+      "assets/images/1789729513720.webp",
+      "assets/images/1789738029661.webp"
     ]
   },
   {
@@ -2871,7 +2886,31 @@
     "skill_name": "Nomad",
     "tags": [],
     "details": [
-      "assets/images/1789729577488.webp"
+      "assets/images/1789729577488.webp",
+      "assets/images/1789738512567.webp",
+      "assets/images/1789738513062.webp",
+      "assets/images/1789738513507.webp",
+      "assets/images/1789738513935.webp",
+      "assets/images/1789738278515.webp",
+      "assets/images/1789738277767.webp",
+      "assets/images/1789738276918.webp",
+      "assets/images/1789738276148.webp",
+      "assets/images/1789738274580.webp",
+      "assets/images/1789738275352.webp",
+      "assets/images/1789738247482.webp",
+      "assets/images/1789738515684.webp",
+      "assets/images/1789738517229.webp",
+      "assets/images/1789738516431.webp",
+      "assets/images/1789738514849.webp",
+      "assets/images/1789738273773.webp",
+      "assets/images/1789738271780.webp",
+      "assets/images/1789738272171.webp",
+      "assets/images/1789738272551.webp",
+      "assets/images/1789738272953.webp",
+      "assets/images/1789738270861.webp",
+      "assets/images/1789738273358.webp",
+      "assets/images/1789738274167.webp",
+      "assets/images/1789738514385.webp"
     ]
   },
   {
@@ -2885,7 +2924,13 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738361383.webp",
+      "assets/images/1789738362252.webp",
+      "assets/images/1789738363064.webp",
+      "assets/images/1789738363890.webp",
+      "assets/images/1789738364635.webp"
+    ]
   },
   {
     "title": "Guardian of the royal tea gardens",
@@ -2937,7 +2982,13 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738401133.webp",
+      "assets/images/1789738415840.webp",
+      "assets/images/1789738416875.webp",
+      "assets/images/1789738417958.webp",
+      "assets/images/1789738388918.webp"
+    ]
   },
   {
     "title": "I am a bee",
@@ -2989,7 +3040,10 @@
     "featured": false,
     "skill_name": "Nomad",
     "tags": [],
-    "details": []
+    "details": [
+      "assets/images/1789738476892.webp",
+      "assets/images/1789738477854.webp"
+    ]
   },
   {
     "title": "Lavender in teapot",
