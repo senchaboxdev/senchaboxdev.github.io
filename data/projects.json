@@ -1,5 +1,22 @@
 [
   {
+    "title": "Pencil sharpener",
+    "description": "",
+    "image": "assets/images/1789716172461.webp",
+    "link": "",
+    "demo": "",
+    "year": null,
+    "model": "",
+    "featured": false,
+    "skill_name": "Fusion 360",
+    "tags": [],
+    "details": [
+      "assets/images/1789716178887.webp",
+      "assets/images/1789716185651.webp",
+      "assets/images/1789716198350.webp"
+    ]
+  },
+  {
     "title": "Working with my dad",
     "description": "",
     "image": "assets/images/1789654651873.webp",
@@ -144,7 +161,11 @@
       "assets/images/1789653154977.webp",
       "assets/images/1789653155345.webp",
       "assets/images/1789653357049.webp",
-      "assets/images/1789653365674.webp"
+      "assets/images/1789653365674.webp",
+      "assets/images/1789716062076.webp",
+      "assets/images/1789716076934-crop.webp",
+      "assets/images/1789716014086.webp",
+      "assets/images/1789716017373.webp"
     ]
   },
   {
@@ -1232,7 +1253,7 @@
   {
     "title": "Minecraft Model1",
     "description": "",
-    "image": "assets/images/1789573145971.webp",
+    "image": "assets/images/1789716380083-crop.webp",
     "link": "",
     "demo": "",
     "year": null,
@@ -1348,7 +1369,8 @@
     "skill_name": "Craft",
     "tags": [],
     "details": [
-      "assets/images/1789570346026.webp"
+      "assets/images/1789570346026.webp",
+      "assets/images/1789716303467.webp"
     ]
   },
   {
@@ -1582,7 +1604,8 @@
       "assets/images/1789569474180.webp",
       "assets/images/1789653756010.webp",
       "assets/images/1789653756238.webp",
-      "assets/images/1789653756434.webp"
+      "assets/images/1789653756434.webp",
+      "assets/images/1789716132627.webp"
     ]
   },
   {
